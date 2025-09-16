@@ -13,14 +13,14 @@ The report helps stakeholders and decision-makers:<br>
 The Summary Page provides a high-level snapshot of overall loan performance.<br>
 🔹 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:<br>
  ● 𝐊𝐏𝐈𝐬 (𝐓𝐨𝐩 𝐂𝐚𝐫𝐝𝐬)::<br>
- <pre>    • 𝗧𝗼𝘁𝗮𝗹 𝗟𝗼𝗮𝗻 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: 38.6K<br>
- <pre>    • 𝗧𝗼𝘁𝗮𝗹 𝗙𝘂𝗻𝗱𝗲𝗱 𝗔𝗺𝗼𝘂𝗻𝘁: $435.8M<br>
- <pre>    • 𝗧𝗼𝘁𝗮𝗹 𝗔𝗺𝗼𝘂𝗻𝘁 𝗥𝗲𝗰𝗲𝗶𝘃𝗲𝗱: $473.1M<br>
- <pre>    • 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗥𝗮𝘁𝗲: 12%<br>
- <pre>    • 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗗𝗲𝗯𝘁-𝘁𝗼-𝗜𝗻𝗰𝗼𝗺𝗲 (𝗗𝗧𝗜): 13.3%<br>
+ &nbsp;  • 𝗧𝗼𝘁𝗮𝗹 𝗟𝗼𝗮𝗻 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: 38.6K<br>
+&nbsp;   • 𝗧𝗼𝘁𝗮𝗹 𝗙𝘂𝗻𝗱𝗲𝗱 𝗔𝗺𝗼𝘂𝗻𝘁: $435.8M<br>
+&nbsp;   • 𝗧𝗼𝘁𝗮𝗹 𝗔𝗺𝗼𝘂𝗻𝘁 𝗥𝗲𝗰𝗲𝗶𝘃𝗲𝗱: $473.1M<br>
+&nbsp;   • 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗥𝗮𝘁𝗲: 12%<br>
+&nbsp;   • 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗗𝗲𝗯𝘁-𝘁𝗼-𝗜𝗻𝗰𝗼𝗺𝗲 (𝗗𝗧𝗜): 13.3%<br>
  ● 𝐆𝐨𝐨𝐝 𝐯𝐬 𝐁𝐚𝐝 𝐋𝐨𝐚𝐧 𝐒𝐩𝐥𝐢𝐭:<br>
- <pre>    • 𝗚𝗼𝗼𝗱 𝗟𝗼𝗮𝗻𝘀: 86.2% (33.2K applications, $370.2M funded, $435.8M received)<br>
- <pre>    • 𝗕𝗮𝗱 𝗟𝗼𝗮𝗻𝘀: 13.8% (5.3K applications, $65.5M funded, $37.3M received)<br>
+&nbsp;   • 𝗚𝗼𝗼𝗱 𝗟𝗼𝗮𝗻𝘀: 86.2% (33.2K applications, $370.2M funded, $435.8M received)<br>
+&nbsp;   • 𝗕𝗮𝗱 𝗟𝗼𝗮𝗻𝘀: 13.8% (5.3K applications, $65.5M funded, $37.3M received)<br>
  ● 𝐋𝐨𝐚𝐧 𝐒𝐭𝐚𝐭𝐮𝐬 𝐓𝐚𝐛𝐥𝐞:<br>
    Shows breakdown by status (Charged Off, Current, Fully Paid) with details of applications, funded amounts, received amounts, and average KPIs.<br>
  ✅ 𝐏𝐮𝐫𝐩𝐨𝐬𝐞: Gives executives and managers a quick portfolio health check — loan quality, overall funding, repayment performance, and risk exposure.<br>
@@ -41,8 +41,8 @@ The Overview Page explores loan data across time, geography, and demographics.<b
 The Details Page provides record-level data for in-depth analysis.<br>
 🔹 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:<br>
  ● 𝗜𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗧𝗮𝗯𝗹𝗲: Each loan record includes:<br>
- <pre>    • Loan ID, Purpose, Home Ownership, Grade, Sub-grade<br>
- <pre>    • Issue Date, Funded Amount, Interest Rate, Installment, Amount Received<br>
+ &nbsp;   • Loan ID, Purpose, Home Ownership, Grade, Sub-grade<br>
+ &nbsp;   • Issue Date, Funded Amount, Interest Rate, Installment, Amount Received<br>
  ● 𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁 𝗞𝗣𝗜𝘀 𝗼𝗻 𝗧𝗼𝗽: Total Applications, Funded Amount, Received Amount, Interest Rate, and DTI remain visible for context.<br>
  ● 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 & 𝗦𝗹𝗶𝗰𝗲𝗿𝘀: Users can filter by measure, state, grade, and good vs bad loans.<br>
 ✅ 𝐏𝐮𝐫𝐩𝐨𝐬𝐞: Supports detailed drill-down into individual loan records for audit, customer service, and risk investigations.<br>
