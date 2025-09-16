@@ -12,16 +12,16 @@ The report helps stakeholders and decision-makers:<br>
 ### 1️⃣ 𝐒𝐮𝐦𝐦𝐚𝐫𝐲 𝐏𝐚𝐠𝐞<br>
 The Summary Page provides a high-level snapshot of overall loan performance.<br>
 🔹 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:<br>
- ● KPIs (Top Cards):<br>
-     • Total Loan Applications: 38.6K<br>
-     • Total Funded Amount: $435.8M<br>
-     • Total Amount Received: $473.1M<br>
-     • Average Interest Rate: 12%<br>
-     • Average Debt-to-Income (DTI): 13.3%<br>
- ● Good vs Bad Loan Split:<br>
-     • Good Loans: 86.2% (33.2K applications, $370.2M funded, $435.8M received)<br>
-     • Bad Loans: 13.8% (5.3K applications, $65.5M funded, $37.3M received)<br>
- ● Loan Status Table:<br>
+ ● 𝐊𝐏𝐈𝐬 (𝐓𝐨𝐩 𝐂𝐚𝐫𝐝𝐬)::<br>
+ <pre>    • 𝗧𝗼𝘁𝗮𝗹 𝗟𝗼𝗮𝗻 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: 38.6K<br>
+ <pre>    • 𝗧𝗼𝘁𝗮𝗹 𝗙𝘂𝗻𝗱𝗲𝗱 𝗔𝗺𝗼𝘂𝗻𝘁: $435.8M<br>
+ <pre>    • 𝗧𝗼𝘁𝗮𝗹 𝗔𝗺𝗼𝘂𝗻𝘁 𝗥𝗲𝗰𝗲𝗶𝘃𝗲𝗱: $473.1M<br>
+ <pre>    • 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗥𝗮𝘁𝗲: 12%<br>
+ <pre>    • 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗗𝗲𝗯𝘁-𝘁𝗼-𝗜𝗻𝗰𝗼𝗺𝗲 (𝗗𝗧𝗜): 13.3%<br>
+ ● 𝐆𝐨𝐨𝐝 𝐯𝐬 𝐁𝐚𝐝 𝐋𝐨𝐚𝐧 𝐒𝐩𝐥𝐢𝐭:<br>
+ <pre>    • 𝗚𝗼𝗼𝗱 𝗟𝗼𝗮𝗻𝘀: 86.2% (33.2K applications, $370.2M funded, $435.8M received)<br>
+ <pre>    • 𝗕𝗮𝗱 𝗟𝗼𝗮𝗻𝘀: 13.8% (5.3K applications, $65.5M funded, $37.3M received)<br>
+ ● 𝐋𝐨𝐚𝐧 𝐒𝐭𝐚𝐭𝐮𝐬 𝐓𝐚𝐛𝐥𝐞:<br>
    Shows breakdown by status (Charged Off, Current, Fully Paid) with details of applications, funded amounts, received amounts, and average KPIs.<br>
  ✅ 𝐏𝐮𝐫𝐩𝐨𝐬𝐞: Gives executives and managers a quick portfolio health check — loan quality, overall funding, repayment performance, and risk exposure.<br>
 
@@ -40,11 +40,11 @@ The Overview Page explores loan data across time, geography, and demographics.<b
 ### 3️⃣ 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 𝐏𝐚𝐠𝐞<br>
 The Details Page provides record-level data for in-depth analysis.<br>
 🔹 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:<br>
- ● Interactive Data Table: Each loan record includes:<br>
-     • Loan ID, Purpose, Home Ownership, Grade, Sub-grade<br>
-     • Issue Date, Funded Amount, Interest Rate, Installment, Amount Received<br>
- ● Consistent KPIs on Top: Total Applications, Funded Amount, Received Amount, Interest Rate, and DTI remain visible for context.<br>
- ● Filters & Slicers: Users can filter by measure, state, grade, and good vs bad loans.<br>
+ ● 𝗜𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗧𝗮𝗯𝗹𝗲: Each loan record includes:<br>
+ <pre>    • Loan ID, Purpose, Home Ownership, Grade, Sub-grade<br>
+ <pre>    • Issue Date, Funded Amount, Interest Rate, Installment, Amount Received<br>
+ ● 𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁 𝗞𝗣𝗜𝘀 𝗼𝗻 𝗧𝗼𝗽: Total Applications, Funded Amount, Received Amount, Interest Rate, and DTI remain visible for context.<br>
+ ● 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 & 𝗦𝗹𝗶𝗰𝗲𝗿𝘀: Users can filter by measure, state, grade, and good vs bad loans.<br>
 ✅ 𝐏𝐮𝐫𝐩𝐨𝐬𝐞: Supports detailed drill-down into individual loan records for audit, customer service, and risk investigations.<br>
 
 ## ⚙️ Data Sources<br>
@@ -87,5 +87,5 @@ Neeraj Sharma<br>
 🌐 LinkedIn Profile https://www.linkedin.com/in/ineerajsharma15/ <br>
 
 ## 📌 Disclaimer<br>
-This project is created for educational and portfolio purposes. Data used in this report may be sample or anonymized and should not be considered<br>
-as real bank customer data.<br>
+This project is created for educational and portfolio purposes. Data used in this report may be sample or anonymized and should not <br>
+be considered as real bank customer data.<br>
